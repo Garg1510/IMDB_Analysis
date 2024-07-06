@@ -24,7 +24,7 @@ Evaluate model performance on a validation set.
 
 4. Evaluation Metrics:
 
-Compute and display metrics such as accuracy, precision, recall, and F1 score.
+Compute and display metrics such as accuracy, precision, F1 score, and recall.
 Generate a confusion matrix to visualize model performance.
 
 5. Utility Functions:
